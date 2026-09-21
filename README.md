@@ -96,4 +96,4 @@ I ran into an Android build issue caused by a Kotlin incremental compilation con
 
 ## Demo Video
 
-<!-- [Add the link here after uploading the video](https://drive.google.com/file/d/1K79vmb5LDvwJ-A6YAyhSnktTPXQiDqWA/view?usp=drivesdk) -->
+<!-- https://drive.google.com/file/d/1K79vmb5LDvwJ-A6YAyhSnktTPXQiDqWA/view -->
