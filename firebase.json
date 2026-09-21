@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"eyego-news","appId":"1:709618792882:android:e0371bab17427b1a0c4cab","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"eyego-news","configurations":{"android":"1:709618792882:android:e0371bab17427b1a0c4cab","ios":"1:709618792882:ios:4f7e4e14f665c8ce0c4cab"}}}}}}
